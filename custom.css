@@ -3044,7 +3044,7 @@ div.tooltiptext.bigtooltip {
  width: 36px;
 }
 .cm-s-ipython .CodeMirror-linenumber {
- color: #676e7d;
+ color: #181e2c;
 }
 .CodeMirror-sizer {
  margin-left: 40px;
@@ -3060,7 +3060,7 @@ div.CodeMirror-linenumber,
  text-align: right;
 }
 .CodeMirror-linenumber {
- color: #676e7d;
+ color: #181e2c;
 }
 .cm-s-ipython .CodeMirror-cursor {
  border-left: 2px solid #db797c !important;
